@@ -53,6 +53,3 @@
 
 ---
 
-### 🔥 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guenna-afk&theme=dark&locale=es&short_numbers=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)

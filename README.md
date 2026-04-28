@@ -5,7 +5,7 @@
 
 ### 🚀 About me
 
-- 👨‍💻 I’m **Guenna**, autodidact developer, 50$ artificial intelligence...
+- 👨‍💻 I’m **Guenna**, autodidact developer, half of my skills are AI
 - 🏢 Currently working on my some projects...
 - 🌍 I’m from **Barcelona, Spain**
 - 🧠 I’m **15 years old** and constantly learning new technologies

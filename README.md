@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Guenna</h1>
-<h3 align="center">Landing Pages Developer from Barcelona, Spain 🇪🇸</h3>
+<h3 align="center">Autodidact Developer from Barcelona, Spain 🇪🇸</h3>
 
 ---
 
 ### 🚀 About me
 
-- 👨‍💻 I’m **Guenna**, landing pages developer and founder of **kataX**
-- 🏢 Currently working on my own business: **[kataX](https://katax.es)**
+- 👨‍💻 I’m **Guenna**, autodidact developer, 50$ artificial intelligence...
+- 🏢 Currently working on my some projects...
 - 🌍 I’m from **Barcelona, Spain**
 - 🧠 I’m **15 years old** and constantly learning new technologies
 - 🗣️ I’m also learning **new languages**
@@ -38,7 +38,7 @@
 
 ### 🌐 Projects
 
-- 👨‍💻 All my projects are available at **[kataX](https://katax.es)**
+- 👨‍💻 All my projects are available in my repositories
 
 ---
 
